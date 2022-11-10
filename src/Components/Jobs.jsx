@@ -56,12 +56,9 @@ render(){
                     <Form.Select onChange = {this.SelectionOftypeOfJobs}>
                       <option>ALL</option>
                       <option>GOVT JOBS</option>
-                      <option>NAKURI</option>
-                      <option>LINKED IN</option>
-                      <option>INDEED</option>
-                      <option>MONSTER</option>
+                     <option>Private Jobs</option>
                        <option>MNC</option>
-                       <option>OTHERS</option>
+                       
                       
                     </Form.Select>
               </Form>
