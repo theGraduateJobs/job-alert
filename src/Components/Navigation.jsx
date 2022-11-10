@@ -34,8 +34,8 @@ class Navigation extends Component{
           </Nav>
           <div>
              <a><i className="fa-brands fa-youtube text-light p-2"></i></a>
-            <a><i className="fa-brands fa-telegram text-light p-2"></i></a>
-            <a><i className="fa-brands fa-instagram text-light p-2"></i></a>
+            <a href="https://t.me/the_graduate_jobs" target="_blank"><i className="fa-brands fa-telegram text-light p-2"></i></a>
+            <a href="https://www.instagram.com/thegraduatejobs/" target="_blank"><i className="fa-brands fa-instagram text-light p-2"></i></a>
             <a><i className="fa-brands fa-facebook text-light p-2"></i></a>
           </div>
          <div>
