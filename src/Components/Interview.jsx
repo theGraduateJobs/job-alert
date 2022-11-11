@@ -6,6 +6,9 @@ import Spinner from 'react-bootstrap/Spinner';
 import "../App.css"
 import {Navigate} from "react-router-dom"
 class InterViewQuestions extends Component {
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8530428648221526"
+  crossorigin="anonymous"></script>
+
   state = {
     data : null,
     subject : "HR",
