@@ -16,6 +16,9 @@ import NotFoundPage from "./NotFoundPage.jsx"
 import MoreAnswers from "./MoreAnswers.jsx"
 
 class Navigation extends Component{
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8530428648221526"
+  crossorigin="anonymous"></script>
+
   render(){
     
   
