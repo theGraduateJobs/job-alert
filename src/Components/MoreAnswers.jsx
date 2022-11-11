@@ -7,6 +7,9 @@ import Accordion from 'react-bootstrap/Accordion';
 import Form from 'react-bootstrap/Form';
 
 const MoreAnswers = ()=> {
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8530428648221526"
+  crossorigin="anonymous"></script>
+
   const [value,setValue] = useState(false)
   const [subjectHandler,setSubjectHandler] = useState("select")
   const [questionHandler,setQuestionHandler] = useState("select")
