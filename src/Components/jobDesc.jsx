@@ -7,6 +7,8 @@ const Description = ()=> {
  let {id} = useParams();
   
  const [value,setValue] = useState(false)
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8530428648221526"
+  crossorigin="anonymous"></script>
 
   useEffect(() =>{
     const options = {
