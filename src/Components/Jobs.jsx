@@ -9,6 +9,9 @@ import "../App.css"
 
 
 class Jobs extends Component{
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8530428648221526"
+  crossorigin="anonymous"></script>
+
   state = {
     value : false,
     id : null,
